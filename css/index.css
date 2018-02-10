@@ -1,0 +1,4 @@
+  .Copyright{ width: 220px; height: 20px; margin:0 auto;}
+  @-ms-viewport     { width: device-width; }
+  @-o-viewport      { width: device-width; }
+  @viewport         { width: device-width; }
