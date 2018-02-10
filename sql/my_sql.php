@@ -1,4 +1,7 @@
 <?php
+/**
+*  网上找的一些封装的mysql函数
+*/
 require_once 'sql.php';
 $sql_db = new sql_db();
 $mysql_host = $sql_db->host;
