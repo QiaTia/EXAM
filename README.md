@@ -4,7 +4,7 @@ Exam在线考试系统
 #   云南能源职业技术学院 2015届 计网151班 毕业设计
 #
 # 使用框架
-前端：bootstrap, JQuery. 后台管理：MDUI, bootstrap, JQuery. 图表 ：Chart
+前端：<a href="https://github.com/twbs/bootstrap">bootstrap</a>, <a href="http://jquery.com/">JQuery</a>. 后台管理：<a href="https://github.com/zdhxiong/mdui">MDUI</a>, <a href="https://github.com/twbs/bootstrap">bootstrap</a>, <a href="http://jquery.com/">JQuery</a>. 图表 ：Chart
 <br>虽然使用了图表插件，但是并没画出什么实际效果
 #
 # 在线演示地址: 
