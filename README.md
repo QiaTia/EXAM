@@ -8,8 +8,10 @@ Exam在线考试系统
 <br>虽然使用了图表插件，但是并没画出什么实际效果
 #
 # 在线演示地址: 
-<br>http://www.acg58.top/exam
-<br>https://www.qiatia.top/php/exam
+~<br>http://www.acg58.top/exam~
+~<br>https://www.qiatia.top/php/exam~ 
+<br>我自个的个人小站空间被封掉啦大家去下面这个地址预览吧
+<br> http://exam.byethost3.com
 # 账户密码： 
 <br>管理员账户：666 密码：123456 ;学生账号:201503020201 密码 123456
 #
