@@ -25,7 +25,7 @@ if(isset($_POST['btn'])){
 	$fill = $_POST['fill'].','.$_POST['fillNum'];
 	$saq = $_POST['saq'].','.$_POST['saqNum'];
   #sql语句区
-	$sql = "INSERT INTO  `test` (`title` ,`cate` ,`class` ,`startTime` ,`overTime` ,`radio` ,`checkbox` ,`judge` ,`fill` ,`saq`)VALUES ('$title',  '$cate',  '$class',  '$startTime',  '$overTime',  '$radio',  '$checkbox',  '$judge',  '$fill',  '$saq');";
+	$sql = "INSERT INTO `test` (`title` ,`cate` ,`class` ,`startTime` ,`overTime` ,`radio` ,`checkbox` ,`judge` ,`fill` ,`saq`)VALUES ('$title',  '$cate',  '$class',  '$startTime',  '$overTime',  '$radio',  '$checkbox',  '$judge',  '$fill',  '$saq');";
 	if (!mysql_query($sql,$con_link )){
 		die('Error: ' . mysql_error());
 	}else{
