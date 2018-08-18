@@ -3,8 +3,8 @@
 ### 云南能源职业技术学院 2015届 计网151班 毕业设计
 ### 在线演示地址: 
   <br> http://exam.byethost3.com
-  <br>`我自个的个人小站空间被封掉啦 大家去上面这个地址预览吧`
-  ~https://www.qiatia.cn/php/exam~
+  <br>~`我自个的个人小站空间被封掉啦 大家去上面这个地址预览吧`~
+  <br>https://qiatia.cn/tools/Exam-master/
   ------
 ### 安装说明：
   下载解压至网站root目录，更改sql目录下sql.php文件，将MySQL地址，账户密码更改为你的
