@@ -50,7 +50,7 @@
 				<div class="panel-body">
 					 <blockquote>
 					 	<div id="settings">
-					 	如有重要问题或网站紧急事件，请以 <br>1076590739@QQ.com<br>1368408835@QQ.com<br> 联系我们。
+					 	如有重要问题或网站紧急事件，请以 <br>maxtimecost@GMAIL.com<br>qiatia@qq.com<br> 联系我们。
 					 </div>
 					</blockquote>
 				</div>
