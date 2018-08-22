@@ -11,7 +11,7 @@
   <meta name="Keywords" content="">
   <meta name="Description" content="">
   <link rel="icon" type="image/png" href="../images/time.png">
-  <link rel="stylesheet" href="//cdn.90so.net/layui/2.2.6/css/layui.css"  media="all">
+  <link rel="stylesheet" href="//cdn.90so.net/layui/2.3.0/css/layui.css"  media="all">
   <title>考试系统-后台管理中心</title>
   <style type="text/css">
     *{padding: 0;margin: 0}
@@ -168,7 +168,7 @@
     <textarea style="min-width: 350px;min-height: 150px;border:none;">在这里输入你需要处理的内容，下次打开内容还会存在哟~</textarea>
   </div>
   <script src="//libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
-  <script src="//cdn.90so.net/layui/2.2.6/layui.js " charset="utf-8"></script>
+  <script src="//cdn.90so.net/layui/2.3.0/layui.js " charset="utf-8"></script>
   <script type="text/javascript">
     var meun = 0
       ,rame = getQueryString('rame')
