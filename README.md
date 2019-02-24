@@ -25,7 +25,7 @@
  ![icon](/images/4.png)
  ![icon](/images/5.png)
 ### 反馈与建议
-  如有啥建议或有啥问题可以<a href="https://qiatia.cn/content.php?i=31#reply">点这里</a>
+  如有啥建议或有啥问题可以<a href="https://qiatia.cn/article/31#reply">点这里</a>
 ### 使用框架
   前端：<a href="https://github.com/twbs/bootstrap">bootstrap</a>, <a href="http://jquery.com/">JQuery</a>. 后台管理：<a href="https://github.com/zdhxiong/mdui">MDUI</a>, <a href="https://github.com/twbs/bootstrap">bootstrap</a>, <a href="http://jquery.com/">JQuery</a>. 图表 ：Chart
   <br>虽然使用了图表插件，但是并没画出什么实际效果
